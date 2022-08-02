@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<script>
+if(true){
+    alert('result : true');
+    }
+if(false){
+    alert('result : true');
+}
+if(true){
+    alert(1);
+} else {
+    alert(2);
+}
+id = prompt('아이디를 입력해주세요.');
+if(id=='ptwno1'){
+    password = prompt('비밀번호를 입력해주세요.');
+    if(password==='qwer1234'){
+        alert('인증 했습니다.');
+    } else {
+        alert('인증에 실패 했습니다.');
+    }
+} else {
+    alert('인증에 실패 했습니다.');
+}
+
+
+id = prompt('아이디를 입력해주세요.');
+password = prompt('비밀번호를 입력해주세요.');
+if((id==='ptwno1' || id==='idontknow' || id==='spagatti') && password==='qwe123'){
+    alert('인증 했습니다.');
+} else {
+    alert('인증에 실패 했습니다.');
+}
+</script>
+</body>
+</html>

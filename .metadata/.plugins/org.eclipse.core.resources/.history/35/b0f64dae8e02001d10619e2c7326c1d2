@@ -1,0 +1,10 @@
+package 연습1;
+
+public class 수의연산 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package 연습1;
+
+public class 수의연산 {
+
+	public static void main(String[] args) {
+		alret(3);
+
+	}
+
+	private static void alret(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

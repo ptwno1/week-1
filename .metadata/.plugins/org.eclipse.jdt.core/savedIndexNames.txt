@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\twpno\Desktop\자바스크립트\.metadata\.plugins\org.eclipse.jdt.core
+2999754385.index
+238520874.index
+1865797976.index

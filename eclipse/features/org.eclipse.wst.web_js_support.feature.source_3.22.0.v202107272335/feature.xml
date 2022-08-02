@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.eclipse.wst.web_js_support.feature.source" version="3.22.0.v202107272335" label="%featureName" provider-name="%providerName">
+  <description>
+      %description
+   </description>
+  <copyright>
+      %copyright
+   </copyright>
+  <license url="%licenseURL">
+      %license
+   </license>
+  <includes id="org.eclipse.wst.web_js_support.feature" version="3.22.0.v202107272335"/>
+  <plugin id="org.eclipse.wst.jsdt.web.core.source" version="1.1.100.v202005120035" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.wst.jsdt.web.ui.source" version="1.2.300.v202107272335" download-size="0" install-size="0" unpack="false"/>
+</feature>

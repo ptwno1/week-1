@@ -1,0 +1,14 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.wst.jsdt.chromium.debug.core.source,0.5.300.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.debug.core.source_0.5.300.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.debug.js.source,0.1.200.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.debug.js.source_0.1.200.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.debug.jsdtbridge.source,0.5.200.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.debug.jsdtbridge.source_0.5.200.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.debug.source,0.4.0.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.debug.source_0.4.0.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.debug.ui.source,0.6.200.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.debug.ui.source_0.6.200.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.source,0.5.200.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.source_0.5.200.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.wip.eclipse.source,0.5.200.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.wip.eclipse.source_0.5.200.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.wipbackend.dev.source,0.5.300.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.wipbackend.dev.source_0.5.300.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.chromium.wipbackend.protocol_1_0.source,0.5.300.v201903222101,plugins/org.eclipse.wst.jsdt.chromium.wipbackend.protocol_1_0.source_0.5.300.v201903222101.jar,-1,false
+org.eclipse.wst.jsdt.web.core.source,1.1.100.v202005120035,plugins/org.eclipse.wst.jsdt.web.core.source_1.1.100.v202005120035.jar,-1,false
+org.eclipse.wst.jsdt.web.ui.source,1.2.300.v202107272335,plugins/org.eclipse.wst.jsdt.web.ui.source_1.2.300.v202107272335.jar,-1,false
+org.eclipse.wtp.javascript.capabilities.source,1.0.200.v201901071922,plugins/org.eclipse.wtp.javascript.capabilities.source_1.0.200.v201901071922.jar,-1,false
