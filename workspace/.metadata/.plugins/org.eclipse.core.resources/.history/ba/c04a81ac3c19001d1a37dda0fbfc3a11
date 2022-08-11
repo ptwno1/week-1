@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>배열</title>
+</head>
+<body>
+
+<ul>
+<script type="text/javascript">
+var name = ['p','k','l']
+alert(name[0]);
+alert(name[1]);
+alert(name[2]);
+
+function get_members(){
+    return ['park','kim','lee'];
+}
+var members = get_members();
+
+for(i = 0; i < members.length; i++){
+    
+    document.write(members[i].toUpperCase()+"<br />");
+}
+
+var alphabet = ["a","b","c"];
+alphabet.push('d'); // 배열의 맨끝에 원소 하나 추가
+alphabet.concat (['e','f']); // 배열의 맨끝에 원소 여러개 차례로 추가
+alphabet.unshift('z'); // 배열의 맨앞에 원소 하나 추가
+alphabet.splice(1,0,'hello'); // 배열의 사이에 하나 추가 1의 뜻 = 1번 자리 0의 뜻 = 0개의 원소 삭제 후 d 추가
+alphabet.shift(); // 배열의 맨앞 원소 삭제
+alphabet.pop(); // 배열의 맨뒤 원소 삭제
+alphabet.sort(); // 배열을 abc순으로 정렬
+alphabet.reverse(); // 배열을 역순으로 정렬
+alert(alphabet);
+
+
+var ob = new Object;
+ob['a'] = 47;
+ob['b'] = 55;
+ob['c'] = 76;
+
+for(key in ob){
+	console.log(ob[key]);
+	document.write("<li>key : "+key+" value : "+ob[key]+"</li>");
+} // 리스트 생성
+
+var grades = {
+	    'list': {'stu1': 15, 'stu2': 20, 'stu3': 32},
+	    'show' : function(){
+	        for(var name in this.list){
+	            document.write(name+':'+this.list[name]+"<br />");
+	        }
+	    }
+	};
+	grades.show()
+</script>
+</ul>
+</body>
+</html>

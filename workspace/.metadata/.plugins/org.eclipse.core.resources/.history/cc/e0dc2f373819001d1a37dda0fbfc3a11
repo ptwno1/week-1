@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>배열,객체</title>
+</head>
+<body>
+<script>
+var name = ['park','kim','lee']
+alert(name[0]);
+alert(name[1]);
+alert(name[2]);
+
+function get_members(){
+    return ['park','kim','lee'];
+}
+var members = get_members();
+document.write(members[0]);
+document.write(members[1]);
+document.write(members[2]);
+</script>
+</body>
+</html>

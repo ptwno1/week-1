@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<script>
+a = 0;
+while (a<5){
+	a += 1;
+	alert(a);
+}
+
+for(var i = 0; i < 5; i++){
+	for(var b = i; b < 5;b++){
+		alert("*");
+	}
+}
+
+function star_make() {
+	i = 0;
+	while(i<10){
+		alert(i);
+		i += 1;
+	}
+}
+
+function member1(){
+	return 'park';
+}
+function member2(){
+	return 'kim';
+}
+alert(member1());
+alert(member2());
+
+function argument(arg){
+	return arg;
+}
+alert(argument(1)); // arg = 1;
+alert(argument(2)); // arg = 2;
+</script>
+</body>
+</html>

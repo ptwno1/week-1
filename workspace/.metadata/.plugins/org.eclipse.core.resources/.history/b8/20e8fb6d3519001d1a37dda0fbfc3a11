@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+var name = ['park','kim','lee']
+alert(name[0]);
+alert(name[1]);
+alert(name[2]);
+
+funtion get_members(){
+    return ['park','kim','lee'];
+}
+var members = get_members();
+document.write(members[0]);
+document.write(members[1]);
+document.write(members[2]);
+</body>
+</html>
